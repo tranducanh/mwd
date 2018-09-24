@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">ITITIT</string>
+  <string name="login_dummy">Login Dummy</string>
+  <string name="email">Email</string>
+  <string name="user_name">User name</string>
+  <string name="full_name">Name</string>
+  <string name="password">Password</string>
+  <string name="confirm_password">Confirm Password</string>
+  <string name="login">Login</string>
+  <string name="empty_email_error_message">Email cannot be blank</string>
+  <string name="invalid_email_error_message">Please Enter a valid email address</string>
+  <string name="empty_password_error_message">Password cannot be empty</string>
+  <string name="login_failure">Login failed</string>
+  <string name="about">About</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="feed">Feed</string>
+  <string name="logout">Logout</string>
+  <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_navigation">NavigationActivity</string>
+  <string name="register">Register</string>
+  <string name="thumbnail">thumbnail</string>
+</resources>
